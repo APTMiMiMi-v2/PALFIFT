@@ -6,6 +6,8 @@ World's Normal Fight Game
 
 This Name Is Used On Book Named Oflajner
 
+Book Page: 1 Page [Page 5]
+
 # Version
 
 v1.0
