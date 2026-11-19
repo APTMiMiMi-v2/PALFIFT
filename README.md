@@ -10,4 +10,4 @@ Book Page: 1 Page [Page 5]
 
 # Version
 
-v1.0
+v1.0 Beta Early Access
